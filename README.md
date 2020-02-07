@@ -18,7 +18,7 @@
 
 
 
-#### On a scale of 1-10, how familiar are you with Bioinformatic tools? 
+#### On a scale of 1-10, how familiar are you with Bioinformatic analysis? 
 
 
 
