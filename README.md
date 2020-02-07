@@ -1,4 +1,4 @@
-# Lyons-Lab Rotation Student Questionair
+# Lyons-Lab Rotation Student Questionaire
 
 
 
