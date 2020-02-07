@@ -13,7 +13,7 @@
 
 
 
-#### Do you have any prior experience with programming?
+#### What is your prior experience with programming?
 
 
 
@@ -43,6 +43,6 @@
 
 
 
-#### Do you have any datasets that you will be bringing with you?
+#### Do you have any datasets that you will be bringing with you? If so, from what lab? 
 
 
