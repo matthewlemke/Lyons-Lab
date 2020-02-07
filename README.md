@@ -8,6 +8,16 @@
 
 
 
+#### What software languages are you familiar with?
+
+
+
+
+#### Do you have any prior experience with programming?
+
+
+
+
 #### On a scale of 1-10, how familiar are you with Bioinformatic tools? 
 
 
